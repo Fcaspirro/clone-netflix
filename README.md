@@ -110,7 +110,7 @@ Para copiar o projeto, utilize os comandos:
 
 ```bash
   # Clonar o repositório | Clone repositories
-  » git clone https://github.com/Fcaspirro/landing_page-lorem.git
+  » git clone https://github.com/Fcaspirro/clone-netflix.git
 
 ```
 
@@ -123,7 +123,7 @@ Link para página Web:
   
 ```bash  
   # Link Github Pages
-  » https://fcaspirro.github.io/landing_page-lorem/ 
+  » https://fcaspirro.github.io/clone-netflix/ 
 ```
 
 Sobre a API utilizada no Projeto:
